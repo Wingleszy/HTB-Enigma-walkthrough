@@ -1,4 +1,4 @@
-### Enigma - Hack The Box Writeup
+# Enigma - Hack The Box Writeup
 ## 📋 Информация о машине
 - **Название:** Enigma
 - **Сложность:** Medium
